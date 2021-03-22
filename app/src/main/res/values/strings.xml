@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Kotlin Channels</string>
+    <string name="show_snackbar">Show snackbar</string>
 </resources>
